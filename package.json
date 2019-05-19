@@ -1,7 +1,7 @@
 {
-  "name": "geofusion-test",
+  "name": "react-store-performance",
   "version": "1.0.0",
-  "description": "Geofusion test for front-end developer",
+  "description": "Teste de React + Leaflet",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
