@@ -4,8 +4,9 @@
   "description": "Teste de React + Leaflet",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development",
-    "build": "webpack --mode production"
+    "dev": "webpack-dev-server --mode development",
+    "build": "webpack --mode production",
+    "start": "node server.js"
   },
   "author": "",
   "devDependencies": {
